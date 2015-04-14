@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Corovino!</title>
+    <description>Con este blog espero compartir mis conocimientos en desarrolloweb HTML5 CSS3,JS. Aquí podras encontrar temas relacionados con desarrollo yprogramación en general- Diviertete</description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 14 Apr 2015 11:25:21 -0500</pubDate>
+    <lastBuildDate>Tue, 14 Apr 2015 11:25:21 -0500</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Un vistazo a Node.js</title>
+        <description>&lt;p&gt;Segundo Post Con jekyll&lt;/p&gt;
+</description>
+        <pubDate>Fri, 10 Apr 2015 02:47:28 -0500</pubDate>
+        <link>http://yourdomain.com/jekyll/update/2015/04/10/segundo-post.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/04/10/segundo-post.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>A un paso de CSS</title>
+        <description>&lt;p&gt;Iniciaremos una serie basada en CSS  donde abordaremos  conceptos básicos de  maquinación, y haremos  especial refuerzo en el tema del CSS, donde daré por echo, que el lector ya esta familiarizado con conceptos  básicos de html, ya que aunque tocare el tema  no profundizare mucho en el ya que la intención es profundizar en el aprendizaje de CSS.&lt;/p&gt;
+
+&lt;p&gt;Durante el transcurso de la seria trataremos temas como selectores, tipos de propiedades, texto, modelos de caja, posicionamiento, sistema de grillas entre otros temas.&lt;/p&gt;
+
+&lt;p&gt;No siendo mas  iniciaremos   esta serie que espero sea de sagrado y sirva para la solución de sus  dudas, y probablemente las mías jeje.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 17 Mar 2015 15:07:28 -0500</pubDate>
+        <link>http://yourdomain.com/jekyll/update/2015/03/17/aun-paso-css.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/03/17/aun-paso-css.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>

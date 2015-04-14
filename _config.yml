@@ -1,0 +1,21 @@
+# Site settings
+title: Corovino!
+email: sastoqueh@gmail.com
+description: "Con este blog espero compartir mis conocimientos en desarrolloweb HTML5 CSS3,JS. Aquí podras encontrar temas relacionados con desarrollo yprogramación en general- Diviertete"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: Corovino
+github_username:  Corovino
+
+
+# Site comments disqust
+comments: true
+
+# pague list
+pages_list:       
+  About: '/about'
+  Archive: '/archive'
+  Feed: '/atom.xml'
+
+# Build settings
+markdown: kramdown
