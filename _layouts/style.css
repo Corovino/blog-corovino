@@ -1,2 +1,1 @@
-{% include css/_base.scss %}
-{% include css/layout.scss %}
+{% site css/main.css %}
